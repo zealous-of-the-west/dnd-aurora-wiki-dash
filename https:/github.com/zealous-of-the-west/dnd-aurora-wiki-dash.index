@@ -5,7 +5,7 @@
 		<description>The 5e homebrew content from the D&amp;D Wiki website.</description>
 		<author url="https://www.dandwiki.com/wiki/5e_Barbarian_Classes">D&amp;D Wiki</author>
 		<update version="0.1.7">
-			<file name="dnd-wiki.index" url="https://github.com/zealous-of-the-west/dnd-aurora-wiki-dash" />
+			<file name="dnd-wiki.index" url="https://github.com/zealous-of-the-west/dnd-aurora-wiki-dash/blob/main/https:/github.com/zealous-of-the-west/dnd-aurora-wiki-dash.index" />
 		</update>
 	</info>
 	</files>
